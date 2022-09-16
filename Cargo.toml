@@ -1,0 +1,5 @@
+[package]
+name = "guess_the_number" # the name of the package
+version = "0.1.0" # the current version, obeying semver
+authors = ["ArhanCodes <arhan@peakseucation.com>"]
+
